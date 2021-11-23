@@ -26,7 +26,9 @@ Functionalities in the app:
 10. There is a spending section as well, which shows the consolidated transaction amount based on Income/ Expense and can be filtered using month, week or year
 
 Languages used : Swift
+
 Database for local storage : Coredata
+
 There is one external class added (SWRevealViewController) which is used for the side menu transition which comes when we click on the filter button on the top right.
 
 
